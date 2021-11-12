@@ -19,9 +19,9 @@ code .
 
 
 
-=Contributing
+<h1>Contributing</h1>
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
--License
+<h1>License</h1>
 <a href="https://choosealicense.com/licenses/mit/">MIT</a>
 
