@@ -12,12 +12,16 @@ Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
 
-```cd kodluyoruzilkrepo
-code .```
+```
+cd kodluyoruzilkrepo
+code .
+```
 
-<h1>Contributing</h1>
+
+
+#Contributing
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
-<h1>License</h1>
+#License
 <a href="https://choosealicense.com/licenses/mit/">MIT</a>
 
